@@ -81,7 +81,7 @@ This is Library management system project that used following technologies
 <img alt="Снимок экрана 2022-05-18 в 09 26 49" src="src/main/resources/img/Снимок экрана 2022-05-21 в 09.16.34.png" width="650"/>
 
 ### SignIn User here: we`re get sign in at the end we get Barreer Token 
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.20.33.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="src/main/resources/img/Снимок экрана 2022-05-21 в 09.20.33.png" width="650"/>
 
 ### Security work with next Controller Methods
 ## AuthorController.class: 
@@ -90,7 +90,7 @@ This is Library management system project that used following technologies
 
 
 ### ADMIN
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.25.18.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="src/main/resources/img/Снимок экрана 2022-05-21 в 09.25.18.png" width="650"/>
 
 ### CLIENT where we don`t have access because we are ADMIN
 <img alt="Снимок экрана 2022-05-18 в 09 26 49" src="src/main/resources/img/Снимок экрана 2022-05-21 в 09.25.59.png" width="650"/>
