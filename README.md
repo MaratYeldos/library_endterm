@@ -47,41 +47,41 @@ This is Library management system project that used following technologies
 ```
 
 ## Diagram UML
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 10.20.34.png" width="334"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 10.20.34.png" width="334"/>
 
 
 ## Diagram
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 12.04.25.png" width="334"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 12.04.25.png" width="334"/>
 
 ## POSTMAN Example
 ### Get All Authors
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 13.07.02.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 13.07.02.png" width="650"/>
 
 ### Get by ID Author
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 13.07.58.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 13.07.58.png" width="650"/>
 
 ### Get save Author
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 13.09.00.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 13.09.00.png" width="650"/>
 
 ### Get update by ID Author
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 13.10.02.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 13.10.02.png" width="650"/>
 
 ### Get delete by ID Author
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 13.10.23.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 13.10.23.png" width="650"/>
 
 ### JMS Kafka
 ## Swagger Send Message
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 20s.05s.2022s в 14s-13s-55s.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 20s.05s.2022s в 14s-13s-55s.png" width="650"/>
 
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-20 в 14.14.22.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-20 в 14.14.22.png" width="650"/>
 
 
 ## JWT
 ### Register User: we get Barreer Token
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 09.16.34.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.16.34.png" width="650"/>
 
 ### SignIn User here: we`re get sign in at the end we get Barreer Token 
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 09.20.33.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.20.33.png" width="650"/>
 
 ### Security work with next Controller Methods
 ## AuthorController.class: 
@@ -90,15 +90,15 @@ This is Library management system project that used following technologies
 
 
 ### ADMIN
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 09.25.18.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.25.18.png" width="650"/>
 
 ### CLIENT where we don`t have access because we are ADMIN
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 09.25.59.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.25.59.png" width="650"/>
 
 
 ## Tables
 ### Books
-<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Desktop/Снимок экрана 2022-05-21 в 09.27.25.png" width="650"/>
+<img alt="Снимок экрана 2022-05-18 в 09 26 49" src="/Users/yeldosmarat/Documents/FINAL_JAVA_Yeldos/src/main/resources/img/Снимок экрана 2022-05-21 в 09.27.25.png" width="650"/>
 
 
 ## WOKR DONE
